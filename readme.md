@@ -264,6 +264,9 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [lunamark](https://github.com/jgm/lunamark) - Converts Markdown to other textual formats including HTML and LaTeX. Uses LPeg for fast parsing.
 - [LXSH](https://github.com/xolox/lua-lxsh) - A collection of lexers and syntax highlighters written with LPeg.
 - [lua-pb](https://github.com/Neopallium/lua-pb) - Protocol Buffers implementation.
+- Pandoc Filters
+  - [pandoc-a2ml](https://github.com/hyperpolymath/pandoc-a2ml) - Pandoc custom reader, writer, filter, and template for A2ML (Attested Markup Language) - AI agent identity and attestation format.
+  - [pandoc-k9](https://github.com/hyperpolymath/pandoc-k9) - Pandoc custom reader, writer, filter, and template for K9 (Self-Validating Components) - configuration with Nickel contracts and trust levels.
 
 
 ### Humanize
